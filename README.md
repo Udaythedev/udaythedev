@@ -26,14 +26,17 @@ I'm a curious mind with a love for tech, tradition, and creativity. I code, buil
 
 ## 🧩 Projects Showcase
 
-🎮 [Slide-E](https://github.com/Udaythedev/Slide-E)  
+🎮 [Slide-E](https://github.com/gamesofuday/Slide-E)  
 *Arcade-style sliding puzzle game made in Unity*
 
-🎮 [Bouncy Ball](https://github.com/Udaythedev/Bouncy-Ball)  
+🎮 [Bouncy Ball](https://github.com/gamesofuday/Bouncy-Ball)  
 *Simple 2D platformer with smooth physics and dynamic obstacles*
 
-🎮 [Badmosh Run](https://github.com/Udaythedev/Badmosh-Run)  
+🎮 [Badmosh Run](https://github.com/gamesofuday/Badmosh-Run)  
 *Endless runner game with a rebellious twist*
+
+> 🎮 Want to see more Unity games and 3D models?  
+> 👉 Visit my game dev profile: [@gamesofuday](https://github.com/gamesofuday)
 
 🧠 [LARS AI Shell](https://github.com/Udaythedev/LARS-AI-Shell)  
 *A Python-based AI shell integrating multiple AI models into one assistant*
@@ -43,9 +46,6 @@ I'm a curious mind with a love for tech, tradition, and creativity. I code, buil
 
 🏫 [School Management System](https://github.com/Udaythedev/School-Management)  
 *GUI-based system using Python Tkinter & PIL for admin-level management*
-
-📽️ [College Trip Vlog Edit](https://github.com/Udaythedev/College-Trip-Edit)  
-*Travel vlog edited with cinematic cuts and transitions in DaVinci Resolve*
 
 > ℹ️ Visit each repo to see live demos, screenshots, and tech stacks!
 
