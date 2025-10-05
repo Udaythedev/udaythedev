@@ -80,7 +80,7 @@ I'm a curious mind with a love for tech, tradition, and creativity. I code, buil
 - 🔗 [LinkedIn](https://linkedin.com/in/udaymahato)
 - 🎥 [YouTube Channel](https://youtube.com/@gamesofuday)
 - 📸 [Instagram](https://instagram.com/gamesofuday)
-- 🌐 Portfolio Website (Coming Soon...)
+- 🌐 [Portfolio Website](http://www.tryanyuday.infinityfreeapp.com/index.html)
 
 ---
 
