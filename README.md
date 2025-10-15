@@ -52,7 +52,7 @@ I'm a curious mind with a love for tech, tradition, and creativity. I code, buil
 ---
 
 ## 🏆 Achievements
-
+- 🥇 !st Place - Code Militia @ Srinath University
 - 🥈 2nd Place – Tech Quiz @ RVS College
 - 🥉 3rd Place – Tech Drama @ Srinath University
 
