@@ -51,6 +51,12 @@ I'm a curious mind with a love for tech, tradition, and creativity. I code, buil
 
 ---
 
+## 📦 More Projects
+
+- Browse all public repositories from this account: https://github.com/Udaythedev?tab=repositories
+
+---
+
 ## 🏆 Achievements
 - 🥇 1st Place - Code Militia @ Srinath University
 - 🥈 2nd Place – Tech Quiz @ RVS College
