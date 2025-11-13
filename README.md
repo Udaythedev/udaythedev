@@ -41,8 +41,9 @@ I'm a curious mind with a love for tech, tradition, and creativity. I code, buil
 🧠 [LARS AI Shell](https://github.com/Udaythedev/LARS-AI-Shell)  
 *A Python-based AI shell integrating multiple AI models into one assistant*
 
-🎧 [Spotify Playlist Manager](https://github.com/Udaythedev/Spotify-Manager)  
+🎧 [Fuserfy : Spotify Playlist Manager](https://github.com/Udaythedev/Fuserfy)  
 *Flask app to create, modify, and manage your Spotify playlists*
+Check/Test it here : https://fuserfy.onrender.com/home
 
 🏫 [School Management System](https://github.com/Udaythedev/School-Management)  
 *GUI-based system using Python Tkinter & PIL for admin-level management*
