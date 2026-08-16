@@ -87,7 +87,7 @@ Check/Test it here : https://fuserfy.onrender.com/home
 - 🔗 [LinkedIn](https://linkedin.com/in/udaymahato)
 - 🎥 [YouTube Channel](https://youtube.com/@gamesofuday)
 - 📸 [Instagram](https://instagram.com/gamesofuday)
-- 🌐 [Portfolio Website](http://www.tryanyuday.infinityfreeapp.com/index.html)
+- 🌐 [Portfolio Website](http://www.udays.space)
 
 ---
 
